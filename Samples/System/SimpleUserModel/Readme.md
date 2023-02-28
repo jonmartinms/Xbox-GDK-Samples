@@ -17,7 +17,7 @@ description: "This sample shows how to use the new Simple User Model introduced 
 
 # SimpleUserModel
 
-For more information see this [document](https://github.com/microsoft/Xbox-GDK-Samples/blob/main/Samples/System/SimpleUserModel/readme_en-us.md).
+For more information see this [document](https://github.com/jonmartinms/Xbox-GDK-Samples/blob/jonmartin/mdTest/Samples/System/SimpleUserModel/readme_en-us.md).
 
 ## Privacy statement
 
