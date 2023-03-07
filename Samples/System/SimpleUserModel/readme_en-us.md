@@ -22,7 +22,7 @@ Gaming.Xbox.Scarlett.x64.
 
 If using a PC, set the active solution platform to Gaming.Desktop.x64.
 
-*For more information, see* Running samples*, in the GDK documentation.*
+*For more information, see* Running samples, *in the GDK documentation.*
 
 # Using the Sample
 
@@ -53,10 +53,11 @@ comment to find locations related to using the simple user model.
 To enable the simple user model for your title, you need to edit
 MicrosoftGame.config and add the following entry:
 
-\<!\-- Opt into requiring a default user at launch and to use the simple
-user model. \--\>
+```
+<!-- Opt into requiring a default user at launch and to use the simple user model. -->
 
-\<AdvancedUserModel\>false\</AdvancedUserModel\>
+<AdvancedUserModel>false</AdvancedUserModel>
+```
 
 The default value is currently *true* for titles built with the June
 2022 GDK release. This may change in a future GDK major release to

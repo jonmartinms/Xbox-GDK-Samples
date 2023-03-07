@@ -18,10 +18,10 @@ description: "This sample shows how to use the new Simple User Model introduced 
 # SimpleUserModel
 
 For more information see: 
-- [readme_en-us](https://github.com/jonmartinms/Xbox-GDK-Samples/blob/jonmartin/mdTest/Samples/System/SimpleUserModel/readme_en-us.md)
-- [readme_ja-jp](https://github.com/jonmartinms/Xbox-GDK-Samples/blob/jonmartin/mdTest/Samples/System/SimpleUserModel/readme_ja-jp.md)
-- [readme_ko-kr](https://github.com/jonmartinms/Xbox-GDK-Samples/blob/jonmartin/mdTest/Samples/System/SimpleUserModel/readme_ko-kr.md)
-- [readme_zh-cn](https://github.com/jonmartinms/Xbox-GDK-Samples/blob/jonmartin/mdTest/Samples/System/SimpleUserModel/readme_zh-cn.md)
+- [Readme](https://github.com/jonmartinms/Xbox-GDK-Samples/blob/jonmartin/mdTest/Samples/System/SimpleUserModel/readme_en-us.md)
+- [Readme 日本語](https://github.com/jonmartinms/Xbox-GDK-Samples/blob/jonmartin/mdTest/Samples/System/SimpleUserModel/readme_ja-jp.md)
+- [Readme 한국어](https://github.com/jonmartinms/Xbox-GDK-Samples/blob/jonmartin/mdTest/Samples/System/SimpleUserModel/readme_ko-kr.md)
+- [Readme 中文 (简体)](https://github.com/jonmartinms/Xbox-GDK-Samples/blob/jonmartin/mdTest/Samples/System/SimpleUserModel/readme_zh-cn.md)
 
 ## Privacy statement
 

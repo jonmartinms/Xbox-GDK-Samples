@@ -47,10 +47,11 @@ Gaming.Xbox.Scarlett.x64로 설정합니다.
 타이틀에 단순 사용자 모델을 사용하도록 설정하려면 MicrosoftGame.config를
 편집하고 다음 항목을 추가해야 합니다.
 
-\<!\-- 시작 시 기본 사용자 요구 및 단순 사용자 모델 사용을 선택합니다.
-\--\>
+```
+<!-- 시작 시 기본 사용자 요구 및 단순 사용자 모델 사용을 선택합니다. -->
 
-\<AdvancedUserModel\>false\</AdvancedUserModel\>
+<AdvancedUserModel>false</AdvancedUserModel>
+```
 
 기본값은 현재 2021년 4월 및 2021년 6월 GDK 릴리스로 빌드된 타이틀에 대해
 *true*입니다. 이후 GDK 주 릴리스에서는 이 값이 기본값인 *false*로 변경될
